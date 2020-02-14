@@ -1,22 +1,31 @@
 # Figma-tips-for-UI-design
-# Figma tips for UI design
-
 
 ## Learn the most common shortcuts
 
 Rectangle tool   `R` 
 
 Move tool        `V`
+
 Type tool        `T` 
+
 Ellipse tool     `O`
+
 Frame tool       `F`
+
 Zoom in          `⌘ +` 
+
 Zoom out         `⌘ -`
+
 Zoom 100%        `⌘ + 0`
+
 Toggle grid      `⌃ + G`
+
 Group Selection  `⌘ + G`
+
 Big Nudge        `⇧ + direction`
+
 Duplicate        `Option + drag`
+
 Show/hide tool panel  `⌘ + .`
 
 
