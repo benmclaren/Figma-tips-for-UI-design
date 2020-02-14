@@ -4,7 +4,8 @@
 
 ## Learn the most common shortcuts
 
-Rectangle tool   `R` \n
+Rectangle tool   `R` 
+
 Move tool        `V`
 Type tool        `T` 
 Ellipse tool     `O`
